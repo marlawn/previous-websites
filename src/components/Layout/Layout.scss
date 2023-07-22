@@ -1,0 +1,15 @@
+.container {
+    height: 100vh;
+    width: 100vw;
+}
+
+.footer {
+    position: fixed;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}

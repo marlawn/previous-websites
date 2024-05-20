@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Gaegu:wght@300&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Gaegu', cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background-color: #DDD0C8; */
+  background-color: white;
+  font-size: 2rem;
+  color:#323232;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
